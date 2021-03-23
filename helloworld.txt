@@ -2,6 +2,7 @@ class hello
 {
     public static void main(String [] args)
 {
+   //Demo code//
    Sytem.out.println("Hello ladies and gentelmen");
 }
 }
